@@ -11,3 +11,4 @@ Governance scaffold for AppMessenger.
 1. Edit `backlog/backlog.csv` and docs under `docs/*` in a feature branch.
 2. Open a PR. CI runs validation and exports.
 3. Review on iPhone (GitHub Mobile), then Approve & Merge.
+
