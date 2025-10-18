@@ -12,3 +12,5 @@ Governance scaffold for AppMessenger.
 2. Open a PR. CI runs validation and exports.
 3. Review on iPhone (GitHub Mobile), then Approve & Merge.
 
+
+
